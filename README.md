@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hello, I'm a polyglot developer;
+🔮 Currently seeking for Job
+
+I love to build, have an idea worth sharing? 💬 Let's brainstorm
+👷🏽‍♂️ I’m currently working on
+    
+🌱 I’m currently learning
+
+  Angular 🦅 & React 🦀
