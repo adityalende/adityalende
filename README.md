@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 🔮 Currently seeking for Job
 
 I love to build, have an idea worth sharing? 💬 Let's brainstorm
+
+
 👷🏽‍♂️ I’m currently working on
     
 🌱 I’m currently learning
