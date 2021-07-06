@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hello, I'm a polyglot developer;
-🔮 Currently seeking for Job
+🔮
 
 I love to build, have an idea worth sharing? 💬 Let's brainstorm
 
